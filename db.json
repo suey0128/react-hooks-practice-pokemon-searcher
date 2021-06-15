@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "80",
+      "sprites": {
+        "front": "https://www.serebii.net/swordshield/pokemon/001.png",
+        "back": "https://www.pokemoncenter.com/products/images/P4829/701-03728/P4829_701-03728_02.jpg"
+      },
+      "id": 151
     }
   ]
 }
